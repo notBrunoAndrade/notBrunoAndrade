@@ -25,10 +25,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/notBrunoAndrade/notBrunoAndrade/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="left">
   <a href="https://www.linkedin.com/in/bruno-de-lima-almeida-andrade-27268b243/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
